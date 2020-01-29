@@ -1,4 +1,4 @@
-This sex-pomelo 语法提示项目
+I don't known why the github can't search @sex-pomelo/sex-pomelo,so create this
 
 # sex-pomelo
 @sex-pomelo portal（sex-pomelo 传送门）
