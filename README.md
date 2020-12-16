@@ -1,6 +1,6 @@
 I don't known why the github can't search @sex-pomelo/sex-pomelo,so create this.
 
-sex-pomelo update 2.2.15
+sex-pomelo update 2.2.27
 
 # sex-pomelo
 @sex-pomelo portal（sex-pomelo 传送门）
